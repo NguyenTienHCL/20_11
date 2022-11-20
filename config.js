@@ -1,4 +1,4 @@
-const nameGirl = '\nMeii';
+const nameGirl = '';
 const giftUrl = 'http://nodemy.vn';
 const eventName = "Happy Teacher's Day 20-11 My Bae ❤";
 const titleCard = 'Message';
